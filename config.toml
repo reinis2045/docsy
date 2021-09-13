@@ -23,11 +23,20 @@ mediaType = "text/html"
 path = "_print"
 permalinkable = false
 
+baseURL = "https://hugo-pp-site.onrender.com/"
+languageCode = "en-us"
+title = "Player Pathway user guide"
+theme = "docsy"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menu.main]]
-    identifier = "Documentation"
+    identifier = "Acounts"
     name = "Player Pathway user guide"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/en/docs/"
+    url = "/Acounts/"
     weight = 20

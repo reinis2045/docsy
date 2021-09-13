@@ -1,8 +1,11 @@
 #!/bin/bash
 #git clone --recurse-submodules --depth 1 https://github.com/google/docsy.git
-cd ./
-mkdir docsy/userguide/
-cd docsy/userguide/
+sudo cd ./
+sudo mkdir docsy
+sudo cd docsy
+sudo mkdir userguide
+sudo cd userguide
+#cd docsy/userguide/
 #cd PlayerPathway
 #npm install
 git init

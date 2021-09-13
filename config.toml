@@ -29,5 +29,5 @@ permalinkable = false
     identifier = "Accounts"
     name = "Player Pathway user guide"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/Accounts/"
+    url = "/content/Accounts/"
     weight = 20

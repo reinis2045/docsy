@@ -35,5 +35,5 @@ contentDir = "content/en"
     identifier = "Acounts"
     name = "Player Pathway user guide"
     pre = "<i class='fa fa-heart'></i>"
-    url = "./"
+    url = "/docs/PlayerPathway/Accounts"
     weight = 20

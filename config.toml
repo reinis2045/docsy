@@ -5,10 +5,10 @@
 # outputformats and mediatypes
 
 [params]
-time_format_blog = "Monday, January 02, 2006"
-time_format_default = "January 2, 2006"
+#time_format_blog = "Monday, January 02, 2006"
+#time_format_default = "January 2, 2006"
 # Sections to publish in the main RSS feed.
-rss_sections = ["blog"]
+#rss_sections = ["blog"]
 
 
 # For a full list of parameters used in Docsy sites, see:
@@ -29,11 +29,11 @@ title = "Player Pathway user guide"
 theme = "docsy"
 contentDir = "content/en"
 
-[menu]
+#[menu]
 
-  [[menu.main]]
-    identifier = "userguide"
-    name = "Player Pathway user guide"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/PlayerPathway/"
-    weight = 20
+ # [[menu.main]]
+  #  identifier = "userguide"
+   # name = "Player Pathway user guide"
+   # pre = "<i class='fa fa-heart'></i>"
+   # url = "/PlayerPathway/"
+   # weight = 20

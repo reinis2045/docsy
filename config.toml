@@ -22,3 +22,12 @@ isHTML = true
 mediaType = "text/html"
 path = "_print"
 permalinkable = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "Accounts"
+    name = "Player Pathway user guide"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/Accounts/"
+    weight = 20

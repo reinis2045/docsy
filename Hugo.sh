@@ -1,6 +1,6 @@
 #!/bin/bash
 #git clone --recurse-submodules --depth 1 https://github.com/google/docsy.git
-#mkdir docsy/userguide/
+mkdir docsy/userguide/
 cd docsy/userguide/
 #cd PlayerPathway
 #npm install

@@ -27,7 +27,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Player Pathway user guide"
 theme = "docsy"
-# contentDir = "content/en"
+contentDir = "content/en"
 
 [menu]
 
@@ -35,5 +35,5 @@ theme = "docsy"
     identifier = "userguide"
     name = "Player Pathway user guide"
     pre = "<i class='fa fa-heart'></i>"
-   # url = "/PlayerPathway/"
+    url = "/_index.md"
     weight = 20

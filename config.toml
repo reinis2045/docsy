@@ -32,8 +32,8 @@ contentDir = "content/en"
 [menu]
 
   [[menu.main]]
-    identifier = "Acounts"
+    identifier = "userguide"
     name = "Player Pathway user guide"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/PlayerPathway/Accounts/"
+    url = "/PlayerPathway/"
     weight = 20

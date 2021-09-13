@@ -1,6 +1,6 @@
 #!/bin/bash
-mkdir PlayerPathweay
-cd PlayerPathweay
+mkdir PlayerPathway
+cd PlayerPathway
 npm install
 git init
 git submodule add https://github.com/google/docsy.git themes/docsy

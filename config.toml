@@ -23,11 +23,11 @@
 #path = "_print"
 #permalinkable = false
 
-baseURL = "https://hugo-pp-site.onrender.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Player Pathway user guide"
 theme = "docsy"
-contentDir = "content/en"
+#contentDir = "content/en"
 
 [menu]
 

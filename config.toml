@@ -29,11 +29,11 @@ title = "Player Pathway user guide"
 theme = "docsy"
 contentDir = "content/en"
 
-#[menu]
+[menu]
 
- # [[menu.main]]
-  #  identifier = "userguide"
-   # name = "Player Pathway user guide"
-   # pre = "<i class='fa fa-heart'></i>"
-   # url = "/PlayerPathway/"
-   # weight = 20
+  [[menu.main]]
+    identifier = "userguide"
+    name = "Player Pathway user guide"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/PlayerPathway/"
+    weight = 20

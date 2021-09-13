@@ -34,5 +34,5 @@ theme = "docsy"
     identifier = "Acounts"
     name = "Player Pathway user guide"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/Acounts/"
+    url = "./"
     weight = 20

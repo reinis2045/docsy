@@ -26,8 +26,8 @@ permalinkable = false
 [menu]
 
   [[menu.main]]
-    identifier = "Accounts"
+    identifier = "Documentation"
     name = "Player Pathway user guide"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/accounts/"
+    url = "/userguide/content/en/docs/"
     weight = 20

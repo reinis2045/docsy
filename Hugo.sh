@@ -1,3 +1,3 @@
 #!/bin/bash
-npm install
+cd docsy/userguide/
 hugo

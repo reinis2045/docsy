@@ -15,13 +15,13 @@ rss_sections = ["blog"]
 # https://github.com/google/docsy-example/blob/master/config.toml
 
 
-[outputFormats]
-[outputFormats.PRINT]
-baseName = "index"
-isHTML = true
-mediaType = "text/html"
-path = "_print"
-permalinkable = false
+#[outputFormats]
+#[outputFormats.PRINT]
+#baseName = "index"
+#isHTML = true
+#mediaType = "text/html"
+#path = "_print"
+#permalinkable = false
 
 baseURL = "https://hugo-pp-site.onrender.com/"
 languageCode = "en-us"

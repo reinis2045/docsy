@@ -1,9 +1,7 @@
 ---
-title: "A new documentation page"
+title: "Player Pathway user guide"
 weight: 1
 type: docs
-summary: A new page for our Hugo documentation website.
 ---
-# Hugo project website
 
-This is our new documentation page.
+This site is for Player Pathway platform users providing features and configuraton knowlage.

@@ -13,9 +13,9 @@
 #echo 'theme = "docsy"' >> config.toml
 #git submodule update --init --recursive
 #mkdir ./opt/render/project/src/PlayerPathway/public
-dir
+pwd
+dir=$(PWD)
 cd ..
-dir
-cd ..
-dir
+pwd
+cd dir
 hugo

@@ -14,8 +14,8 @@
 #git submodule update --init --recursive
 #mkdir ./opt/render/project/src/PlayerPathway/public
 pwd
-dir=$(PWD)
-cd ..
+cd content
 pwd
-cd dir
+cd .. 
+dir
 hugo

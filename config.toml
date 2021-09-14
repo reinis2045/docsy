@@ -32,8 +32,8 @@ theme = "docsy"
 [menu]
 
   [[menu.main]]
-    identifier = "userguide"
+    identifier = "Accounts"
     name = "Player Pathway user guide"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/userguide/content/en/_index.md"
+    url = "/Accounts/"
     weight = 20

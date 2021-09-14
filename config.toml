@@ -23,7 +23,7 @@
 #path = "_print"
 #permalinkable = false
 
-baseURL = "/"
+baseURL = "https://pp-user-guide.onrender.com/"
 languageCode = "en-us"
 title = "Player Pathway user guide"
 theme = "docsy"

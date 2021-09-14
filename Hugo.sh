@@ -16,6 +16,11 @@
 pwd
 cd content
 pwd
-cd .. 
+dir
+cd content
+pwd
+dir
+cd ..
+cd ..
 dir
 hugo

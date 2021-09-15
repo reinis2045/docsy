@@ -23,6 +23,11 @@ mediaType = "text/html"
 path = "_print"
 permalinkable = false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menu.main]]

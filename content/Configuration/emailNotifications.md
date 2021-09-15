@@ -16,6 +16,8 @@ Create customized emails and send program members actual information about progr
 6. Message.
 7. Submit.
 
+<iframe src="https://player.vimeo.com/video/605369472?h=4b45c76c0e" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 When submited email information, start sending by clicking on Initiate send-out button or leave email as a draft.
 
 By clicking on Use as template, save your time and use already created content.

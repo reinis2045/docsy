@@ -17,6 +17,8 @@ In registration table are information about all programs - follow active courses
 4. Click on name to open students account details.
 5. In Registrations section click on program name to open [registration details](registrationDetails.md).
 
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/605369513?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=f5f18f9499" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="How to add Account"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ## Family
 
 Guardian and student are considered as family. You can add multiple guardians and students to the family.
